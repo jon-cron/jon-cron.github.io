@@ -3,7 +3,7 @@
   <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
     <div class="modal-content">
       <div class="modal-body">
-        <iframe src="src\assets\video\checkpoint4 - Google Chrome 2023-02-02 09-50-18.mp4" class="video"></iframe>
+        <iframe src="/src/assets/video/checkpoint4 - Google Chrome 2023-02-02 09-50-18.mp4" class="video"></iframe>
       </div>
     </div>
   </div>

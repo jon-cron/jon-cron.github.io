@@ -7,7 +7,7 @@
       <!-- <section class="row break-row-1"></section> -->
       <section class="row bg-white justify-content-center headshot-row hero">
         <div class="col-12 col-lg-5 col-md-8 text-center">
-          <img src="src\assets\img\betterheadshot.jpg" class="img text-center" alt="">
+          <img src="/src/assets/img/betterheadshot.jpg" class="img text-center" alt="">
         </div>
       </section>
       <section class="row break-row">
@@ -22,18 +22,18 @@
         <div class="col-12 py-3">
           <h2>Languages & Technologies</h2>
         </div>
-        <div class="col-1 d-flex align-items-center" title="HTML5"><img src="src\assets\img\html5.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-1 d-flex align-items-center" title="CSS3"><img src="src\assets\img\css3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-1 d-flex align-items-center" title="Javascript ES6"><img src="src\assets\img\es6.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-1 d-flex align-items-center" title="Typescript"><img src="src\assets\img\ts.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-1 d-flex align-items-center" title="C Sharp"><img src="src\assets\img\csharp.jpg" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-1 d-flex align-items-center" title="Node.js"><img src="src\assets\img\node.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-1 d-flex align-items-center" title="DotNet Core"><img src="src\assets\img\dotnetcircle.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-1 d-flex align-items-center" title="Vue.js"><img src="src\assets\img\vuepng.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-1 d-flex align-items-center" title="SQL"><img src="src\assets\img\sql3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-1 d-flex align-items-center" title="MongoDb"><img src="src\assets\img\mongo.jpg" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-1 d-flex align-items-center" title="Agile"><img src="src\assets\img\agile3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-1 d-flex align-items-center" title="Scrum"><img src="src\assets\img\scrum2.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-1 d-flex align-items-center" title="HTML5"><img src="../assets/img/html5.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-1 d-flex align-items-center" title="CSS3"><img src="/src/assets/img/css3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-1 d-flex align-items-center" title="Javascript ES6"><img src="/src/assets/img/es6.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-1 d-flex align-items-center" title="Typescript"><img src="/src/assets/img/ts.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-1 d-flex align-items-center" title="C Sharp"><img src="/src/assets/img/csharp.jpg" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-1 d-flex align-items-center" title="Node.js"><img src="/src/assets/img/node.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-1 d-flex align-items-center" title="DotNet Core"><img src="/src/assets/img/dotnetcircle.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-1 d-flex align-items-center" title="Vue.js"><img src="/src/assets/img/vuepng.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-1 d-flex align-items-center" title="SQL"><img src="/src/assets/img/sql3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-1 d-flex align-items-center" title="MongoDb"><img src="/src/assets/img/mongo.jpg" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-1 d-flex align-items-center" title="Agile"><img src="/src/assets/img/agile3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-1 d-flex align-items-center" title="Scrum"><img src="/src/assets/img/scrum2.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
       </section>
       <!-- SECTION Frontend projects -->
       <section class="row p-4 justify-content-evenly bg-white text-black border-top">
@@ -41,7 +41,7 @@
           <h2>Frontend Capabilities</h2>
         </div>
         <div class="col-12 py-3"><h2>Todo App</h2></div>
-        <div class="col-5"><img src="src\assets\img\noteApp.png" class="project-img selectable elevation-4" data-bs-target="#todo-modal" data-bs-toggle="modal" title="Play Demo" alt=""></div>
+        <div class="col-5"><img src="/src/assets/img/noteApp.png" class="project-img selectable elevation-4" data-bs-target="#todo-modal" data-bs-toggle="modal" title="Play Demo" alt=""></div>
         <div class="col-7">
           <section class="row justify-content-center">
             <div class="col-9"><h3>Description</h3></div>
@@ -50,10 +50,10 @@
             <div class="col-9 py-2">
               <!-- Place languages and technologies used here -->
               <section class="row justify-content-center">
-        <div class="col-2 d-flex align-items-center" title="HTML5"><img src="src\assets\img\html5.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="CSS3"><img src="src\assets\img\css3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Javascript ES6"><img src="src\assets\img\es6.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Node.js"><img src="src\assets\img\node.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="HTML5"><img src="/src/assets/img/html5.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="CSS3"><img src="/src/assets/img/css3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Javascript ES6"><img src="/src/assets/img/es6.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Node.js"><img src="/src/assets/img/node.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
                 
               </section>
             </div>
@@ -70,24 +70,24 @@
             <div class="col-9 py=2">
               <!-- Place languages and technologies used here -->
               <section class="row justify-content-center">
-        <div class="col-2 d-flex align-items-center" title="HTML5"><img src="src\assets\img\html5.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="CSS3"><img src="src\assets\img\css3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Javascript ES6"><img src="src\assets\img\es6.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Vue.js"><img src="src\assets\img\vuepng.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Node.js"><img src="src\assets\img\node.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="HTML5"><img src="/src/assets/img/html5.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="CSS3"><img src="/src/assets/img/css3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Javascript ES6"><img src="/src/assets/img/es6.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Vue.js"><img src="/src/assets/img/vuepng.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Node.js"><img src="/src/assets/img/node.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
                 
               </section>
             </div>
           </section>
         </div>
-        <div class="col-5"><img src="src\assets\img\towersnip.png" class="project-img selectable elevation-4" data-bs-target="#tower-modal" data-bs-toggle="modal" title="Play Demo" alt=""></div>
+        <div class="col-5"><img src="/src/assets/img/towersnip.png" class="project-img selectable elevation-4" data-bs-target="#tower-modal" data-bs-toggle="modal" title="Play Demo" alt=""></div>
       </section>
       <section class="row p-4 justify-content-evenly bg-white text-black border-top">
         <div class="col-12 ut">
           <h1>Backend Capabilities</h1>
         </div>
         <div class="col-12 py-3"><h2>Recipe Sharp</h2></div>
-        <div class="col-5"><img src="src\assets\img\recipesharp.png" class="project-img selectable elevation-4" data-bs-target="#recipe-modal" data-bs-toggle="modal" title="Play Demo" alt=""></div>
+        <div class="col-5"><img src="/src/assets/img/recipesharp.png" class="project-img selectable elevation-4" data-bs-target="#recipe-modal" data-bs-toggle="modal" title="Play Demo" alt=""></div>
         <div class="col-7">
           <section class="row justify-content-center">
             <div class="col-9"><h3>Description</h3></div>
@@ -96,13 +96,13 @@
             <div class="col-9 py-2">
               <!-- Place languages and technologies used here -->
               <section class="row justify-content-center">
-        <div class="col-2 d-flex align-items-center" title="HTML5"><img src="src\assets\img\html5.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="CSS3"><img src="src\assets\img\css3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Javascript ES6"><img src="src\assets\img\es6.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="C Sharp"><img src="src\assets\img\csharp.jpg" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Vue.js"><img src="src\assets\img\vuepng.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="DotNet Core"><img src="src\assets\img\dotnetcircle.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="SQL"><img src="src\assets\img\sql3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="HTML5"><img src="/src/assets/img/html5.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="CSS3"><img src="/src/assets/img/css3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Javascript ES6"><img src="/src/assets/img/es6.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="C Sharp"><img src="/src/assets/img/csharp.jpg" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Vue.js"><img src="/src/assets/img/vuepng.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="DotNet Core"><img src="/src/assets/img/dotnetcircle.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="SQL"><img src="/src/assets/img/sql3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
                 
               </section>
             </div>
@@ -121,26 +121,26 @@
             <div class="col-9 py-2">
               <!-- Place languages and technologies used here -->
               <section class="row justify-content-center">
-        <div class="col-2 d-flex align-items-center" title="HTML5"><img src="src\assets\img\html5.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="CSS3"><img src="src\assets\img\css3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Javascript ES6"><img src="src\assets\img\es6.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="C Sharp"><img src="src\assets\img\csharp.jpg" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Vue.js"><img src="src\assets\img\vuepng.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="DotNet Core"><img src="src\assets\img\dotnetcircle.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="SQL"><img src="src\assets\img\sql3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="HTML5"><img src="/src/assets/img/html5.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="CSS3"><img src="/src/assets/img/css3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Javascript ES6"><img src="/src/assets/img/es6.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="C Sharp"><img src="/src/assets/img/csharp.jpg" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Vue.js"><img src="/src/assets/img/vuepng.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="DotNet Core"><img src="/src/assets/img/dotnetcircle.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="SQL"><img src="/src/assets/img/sql3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
                 
               </section>
             </div>
           </section>
         </div>
-            <div class="col-5"><img src="src\assets\img\keeper.png" class="project-img selectable elevation-4" data-bs-target="#keep-modal" data-bs-toggle="modal" title="Play Demo" alt=""></div>
+            <div class="col-5"><img src="/src/assets/img/keeper.png" class="project-img selectable elevation-4" data-bs-target="#keep-modal" data-bs-toggle="modal" title="Play Demo" alt=""></div>
       </section>
       <section class="row p-4 justify-content-evenly bg-white text-black border-top">
         <div class="col-12 ut"><h1>Team Project</h1>
         </div>
 
         <div class="col-12 py-3"><h2>MovieKnight</h2></div>
-        <div class="col-5"><a href="https://movieknight.uk/#/"><img src="src\assets\img\movieKnight.png" class="project-img selectable elevation-4" title="Visit Site" alt=""></a></div>
+        <div class="col-5"><a href="https://movieknight.uk/#/"><img src="/src/assets/img/movieKnight.png" class="project-img selectable elevation-4" title="Visit Site" alt=""></a></div>
         <div class="col-7">
           <section class="row justify-content-center">
             <div class="col-9"><h3>Description</h3></div>
@@ -149,13 +149,13 @@
               <div class="col-9 py-2">
               <!-- Place languages and technologies used here -->
               <section class="row justify-content-center">
-        <div class="col-2 d-flex align-items-center" title="HTML5"><img src="src\assets\img\html5.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="CSS3"><img src="src\assets\img\css3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Javascript ES6"><img src="src\assets\img\es6.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Vue.js"><img src="src\assets\img\vuepng.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="MongoDb"><img src="src\assets\img\mongo.jpg" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Agile"><img src="src\assets\img\agile3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
-        <div class="col-2 d-flex align-items-center" title="Scrum"><img src="src\assets\img\scrum2.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="HTML5"><img src="/src/assets/img/html5.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="CSS3"><img src="/src/assets/img/css3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Javascript ES6"><img src="/src/assets/img/es6.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Vue.js"><img src="/src/assets/img/vuepng.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="MongoDb"><img src="/src/assets/img/mongo.jpg" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Agile"><img src="/src/assets/img/agile3.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
+        <div class="col-2 d-flex align-items-center" title="Scrum"><img src="/src/assets/img/scrum2.png" class="img-fluid elevation-2 selectable rounded-circle" alt=""></div>
               </section>
 
             </div>

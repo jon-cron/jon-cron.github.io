@@ -3,7 +3,7 @@
     <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
       <div class="modal-content">
         <div class="modal-body">
-          <iframe src="src\assets\video\fullstackVue.client - Google Chrome 2023-02-02 10-28-17.mp4" class="video"></iframe>
+          <iframe src="/src/assets/video/fullstackVue.client - Google Chrome 2023-02-02 10-28-17.mp4" class="video"></iframe>
         </div>
       </div>
     </div>

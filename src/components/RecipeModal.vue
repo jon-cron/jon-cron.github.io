@@ -3,7 +3,7 @@
     <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
       <div class="modal-content">
         <div class="modal-body">
-          <iframe src="src\assets\video\recipesharp.client - Google Chrome 2023-02-02 11-03-13.mp4" class="video"></iframe>
+          <iframe src="/src/assets/video/recipesharp.client - Google Chrome 2023-02-02 11-03-13.mp4" class="video"></iframe>
         </div>
       </div>
     </div>
